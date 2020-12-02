@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://godweiyang.com/"/>
-  <updated>2020-11-26T09:41:15.225Z</updated>
+  <updated>2020-12-02T08:30:58.011Z</updated>
   <id>https://godweiyang.com/</id>
   
   <author>
@@ -15,6 +15,71 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2020国际机器翻译大赛：火山翻译力夺五项冠军</title>
+    <link href="https://godweiyang.com/2020/12/02/volctrans-wmt20/"/>
+    <id>https://godweiyang.com/2020/12/02/volctrans-wmt20/</id>
+    <published>2020-12-02T08:26:19.000Z</published>
+    <updated>2020-12-02T08:30:58.011Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;马上体验&lt;strong&gt;火山翻译&lt;/strong&gt;：&lt;br&gt;&lt;a href=&quot;https://translate.volcengine.cn&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="深度学习" scheme="https://godweiyang.com/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="机器翻译" scheme="https://godweiyang.com/tags/%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91/"/>
+    
+      <category term="火山翻译" scheme="https://godweiyang.com/tags/%E7%81%AB%E5%B1%B1%E7%BF%BB%E8%AF%91/"/>
+    
+      <category term="字节跳动" scheme="https://godweiyang.com/tags/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>”彩票猜想“在Transformer模型中的若干实践</title>
+    <link href="https://godweiyang.com/2020/12/02/lottery-tickey-hopothesis/"/>
+    <id>https://godweiyang.com/2020/12/02/lottery-tickey-hopothesis/</id>
+    <published>2020-12-02T07:07:32.000Z</published>
+    <updated>2020-12-02T08:34:01.766Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;关注公众号【算法码上来】，每日算法干货马上就来！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/medias/contact.jpg&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="深度学习" scheme="https://godweiyang.com/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="Transformer" scheme="https://godweiyang.com/tags/Transformer/"/>
+    
+      <category term="机器翻译" scheme="https://godweiyang.com/tags/%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91/"/>
+    
+      <category term="剪枝" scheme="https://godweiyang.com/tags/%E5%89%AA%E6%9E%9D/"/>
+    
+      <category term="模型压缩" scheme="https://godweiyang.com/tags/%E6%A8%A1%E5%9E%8B%E5%8E%8B%E7%BC%A9/"/>
+    
+  </entry>
   
   <entry>
     <title>一文速览EMNLP 2020中的Transformer量化论文</title>
@@ -546,63 +611,6 @@
 &lt;p&gt;今天连着面了两次字节跳动，勉强撑到了明天三面。一共三道编程题，做的很烂，这里分享一下。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&quot;第一题&quot;&gt;&lt;a href=&quot;#第一题&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="编程算法" scheme="https://godweiyang.com/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
-    
-    
-      <category term="leetcode" scheme="https://godweiyang.com/tags/leetcode/"/>
-    
-      <category term="算法" scheme="https://godweiyang.com/tags/%E7%AE%97%E6%B3%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【每日算法Day 99】你们可能不知道只用20万赢到578万是什么概念</title>
-    <link href="https://godweiyang.com/2020/04/13/leetcode-846/"/>
-    <id>https://godweiyang.com/2020/04/13/leetcode-846/</id>
-    <published>2020-04-13T04:23:00.000Z</published>
-    <updated>2020-10-22T06:34:30.839Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;blockquote&gt;
-&lt;p&gt;你们可能不知道只用 20 万赢到 578 万是什么概念。&lt;br&gt;我们一般只会用两个字来形容这种人：赌怪！&lt;br&gt;我经常说一句话，当年陈刀仔他能用 20 块赢到 3700 万，我 LBW 用 20 万赢到 500
-        
-      
-    
-    </summary>
-    
-      <category term="编程算法" scheme="https://godweiyang.com/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
-    
-    
-      <category term="leetcode" scheme="https://godweiyang.com/tags/leetcode/"/>
-    
-      <category term="算法" scheme="https://godweiyang.com/tags/%E7%AE%97%E6%B3%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【每日算法Day 98】慈善赌神godweiyang教你算骰子点数概率！</title>
-    <link href="https://godweiyang.com/2020/04/12/leetcode-interview-60/"/>
-    <id>https://godweiyang.com/2020/04/12/leetcode-interview-60/</id>
-    <published>2020-04-12T12:41:45.000Z</published>
-    <updated>2020-10-22T06:34:30.852Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;题目链接&quot;&gt;&lt;a href=&quot;#题目链接&quot; class=&quot;headerlink&quot; title=&quot;题目链接&quot;&gt;&lt;/a&gt;题目链接&lt;/h2&gt;&lt;p&gt;&lt;a
         
       
     
