@@ -20,42 +20,11 @@
       
         <tags>
             
-            <tag> 机器翻译 </tag>
-            
             <tag> 火山翻译 </tag>
             
-            <tag> 字节跳动 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>”彩票猜想“在Transformer模型中的若干实践</title>
-      <link href="/2020/12/02/lottery-tickey-hopothesis/"/>
-      <url>/2020/12/02/lottery-tickey-hopothesis/</url>
-      
-        <content type="html"><![CDATA[<blockquote><p>关注公众号【算法码上来】，每日算法干货马上就来！</p></blockquote><p><img src="/medias/contact.jpg" alt></p><p>今天要讲的这个彩票猜想，看名字可能你会觉得是不是教你怎么买彩票中奖？其实不是，这是模型剪枝的一个方法，还获得了ICLR 18的最佳论文。</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 深度学习 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Transformer </tag>
-            
             <tag> 机器翻译 </tag>
             
-            <tag> 剪枝 </tag>
-            
-            <tag> 模型压缩 </tag>
+            <tag> 字节跳动 </tag>
             
         </tags>
       
