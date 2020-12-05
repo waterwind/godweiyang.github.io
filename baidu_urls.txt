@@ -1,3 +1,4 @@
+https://godweiyang.com/2020/12/05/school-conclusion/
 https://godweiyang.com/2020/12/02/volctrans-wmt20/
 https://godweiyang.com/2020/11/26/emnlp20-quantization/
 https://godweiyang.com/2020/11/24/find-work/
@@ -97,4 +98,3 @@ https://godweiyang.com/2020/02/01/leetcode-115/
 https://godweiyang.com/2020/01/31/leetcode-239/
 https://godweiyang.com/2020/01/30/leetcode-312/
 https://godweiyang.com/2020/01/29/leetcode-424/
-https://godweiyang.com/2020/01/28/leetcode-42/

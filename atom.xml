@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://godweiyang.com/"/>
-  <updated>2020-12-02T08:30:58.011Z</updated>
+  <updated>2020-12-05T06:17:50.283Z</updated>
   <id>https://godweiyang.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>物来顺应，未来不迎，当时不杂，既过不恋</title>
+    <link href="https://godweiyang.com/2020/12/05/school-conclusion/"/>
+    <id>https://godweiyang.com/2020/12/05/school-conclusion/</id>
+    <published>2020-12-05T06:14:05.000Z</published>
+    <updated>2020-12-05T06:17:50.283Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;不知不觉来字节实习也有半年多了，前一阵子也终于通过了转正，正式成为了一名new
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>2020国际机器翻译大赛：火山翻译力夺五项冠军</title>
@@ -576,35 +598,6 @@
 &lt;p&gt;今天连着面了两次字节跳动，勉强撑到了明天三面。一共三道编程题，做的很烂，这里分享一下。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&quot;第一题&quot;&gt;&lt;a href=&quot;#第一题&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="编程算法" scheme="https://godweiyang.com/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
-    
-    
-      <category term="leetcode" scheme="https://godweiyang.com/tags/leetcode/"/>
-    
-      <category term="算法" scheme="https://godweiyang.com/tags/%E7%AE%97%E6%B3%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【每日算法Day 99】你们可能不知道只用20万赢到578万是什么概念</title>
-    <link href="https://godweiyang.com/2020/04/13/leetcode-846/"/>
-    <id>https://godweiyang.com/2020/04/13/leetcode-846/</id>
-    <published>2020-04-13T04:23:00.000Z</published>
-    <updated>2020-10-22T06:34:30.839Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;blockquote&gt;
-&lt;p&gt;你们可能不知道只用 20 万赢到 578 万是什么概念。&lt;br&gt;我们一般只会用两个字来形容这种人：赌怪！&lt;br&gt;我经常说一句话，当年陈刀仔他能用 20 块赢到 3700 万，我 LBW 用 20 万赢到 500
         
       
     
