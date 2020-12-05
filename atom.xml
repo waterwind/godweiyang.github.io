@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://godweiyang.com/"/>
-  <updated>2020-12-05T06:17:50.283Z</updated>
+  <updated>2020-12-05T06:24:53.710Z</updated>
   <id>https://godweiyang.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://godweiyang.com/2020/12/05/school-conclusion/"/>
     <id>https://godweiyang.com/2020/12/05/school-conclusion/</id>
     <published>2020-12-05T06:14:05.000Z</published>
-    <updated>2020-12-05T06:17:50.283Z</updated>
+    <updated>2020-12-05T06:24:53.710Z</updated>
     
     <summary type="html">
     
@@ -35,6 +35,14 @@
     
     </summary>
     
+      <category term="随笔" scheme="https://godweiyang.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="学术" scheme="https://godweiyang.com/tags/%E5%AD%A6%E6%9C%AF/"/>
+    
+      <category term="科研" scheme="https://godweiyang.com/tags/%E7%A7%91%E7%A0%94/"/>
+    
+      <category term="字节跳动" scheme="https://godweiyang.com/tags/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8/"/>
     
   </entry>
   
@@ -60,11 +68,11 @@
       <category term="深度学习" scheme="https://godweiyang.com/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
     
     
+      <category term="字节跳动" scheme="https://godweiyang.com/tags/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8/"/>
+    
       <category term="火山翻译" scheme="https://godweiyang.com/tags/%E7%81%AB%E5%B1%B1%E7%BF%BB%E8%AF%91/"/>
     
       <category term="机器翻译" scheme="https://godweiyang.com/tags/%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91/"/>
-    
-      <category term="字节跳动" scheme="https://godweiyang.com/tags/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8/"/>
     
   </entry>
   
