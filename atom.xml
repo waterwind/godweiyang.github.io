@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://godweiyang.com/"/>
-  <updated>2020-12-05T06:24:53.710Z</updated>
+  <updated>2020-12-10T16:04:20.086Z</updated>
   <id>https://godweiyang.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>北京五日游记</title>
+    <link href="https://godweiyang.com/2020/12/09/travel-to-beijing/"/>
+    <id>https://godweiyang.com/2020/12/09/travel-to-beijing/</id>
+    <published>2020-12-09T12:40:08.000Z</published>
+    <updated>2020-12-10T16:04:20.086Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://godweiyang.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="北京" scheme="https://godweiyang.com/tags/%E5%8C%97%E4%BA%AC/"/>
+    
+      <category term="旅游" scheme="https://godweiyang.com/tags/%E6%97%85%E6%B8%B8/"/>
+    
+  </entry>
   
   <entry>
     <title>物来顺应，未来不迎，当时不杂，既过不恋</title>
@@ -575,37 +603,6 @@
 &lt;p&gt;今天字节三面结束了，超越妹妹保佑我通过吧！今天更新两道同学之前面试 AI Lab 时遇到的题。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&quot;0-1-背包问题（浮点数）&quot;&gt;&lt;a href=&quot;#0-1-背包问题（浮点数）&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="编程算法" scheme="https://godweiyang.com/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
-    
-    
-      <category term="leetcode" scheme="https://godweiyang.com/tags/leetcode/"/>
-    
-      <category term="算法" scheme="https://godweiyang.com/tags/%E7%AE%97%E6%B3%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【每日算法Day 100】字节跳动 AI Lab 面试编程题（三道）</title>
-    <link href="https://godweiyang.com/2020/04/14/byte-dance-interview/"/>
-    <id>https://godweiyang.com/2020/04/14/byte-dance-interview/</id>
-    <published>2020-04-14T09:31:09.000Z</published>
-    <updated>2020-10-22T06:34:30.509Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;blockquote&gt;
-&lt;p&gt;今天连着面了两次字节跳动，勉强撑到了明天三面。一共三道编程题，做的很烂，这里分享一下。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;第一题&quot;&gt;&lt;a href=&quot;#第一题&quot; class=&quot;headerlink&quot;
         
       
     
