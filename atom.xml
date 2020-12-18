@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://godweiyang.com/"/>
-  <updated>2020-12-12T19:49:25.920Z</updated>
+  <updated>2020-12-18T10:47:39.124Z</updated>
   <id>https://godweiyang.com/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一文看懂AutoML</title>
+    <link href="https://godweiyang.com/2020/12/18/automl-survey/"/>
+    <id>https://godweiyang.com/2020/12/18/automl-survey/</id>
+    <published>2020-12-18T10:07:20.000Z</published>
+    <updated>2020-12-18T10:47:39.124Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;论文地址：&lt;/strong&gt;&lt;br&gt;&lt;a href=&quot;https://arxiv.org/abs/1908.00709&quot; title=&quot;AutoML: A survey of the state-of-the-art&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="深度学习" scheme="https://godweiyang.com/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="AutoML" scheme="https://godweiyang.com/tags/AutoML/"/>
+    
+      <category term="NAS" scheme="https://godweiyang.com/tags/NAS/"/>
+    
+      <category term="神经架构搜索" scheme="https://godweiyang.com/tags/%E7%A5%9E%E7%BB%8F%E6%9E%B6%E6%9E%84%E6%90%9C%E7%B4%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>二零二零年终总结</title>
@@ -78,7 +108,7 @@
     <link href="https://godweiyang.com/2020/12/05/school-conclusion/"/>
     <id>https://godweiyang.com/2020/12/05/school-conclusion/</id>
     <published>2020-12-05T06:14:05.000Z</published>
-    <updated>2020-12-05T06:24:53.710Z</updated>
+    <updated>2020-12-18T10:09:16.700Z</updated>
     
     <summary type="html">
     
@@ -572,35 +602,6 @@
 &lt;p&gt;前两天 Day 99 的时候，做过一道顺子的题目，当时有一个网友的妙解有点没看懂，今天我来给大家详细讲解一下。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&quot;题目链接&quot;&gt;&lt;a href=&quot;#题目链接&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="编程算法" scheme="https://godweiyang.com/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
-    
-    
-      <category term="leetcode" scheme="https://godweiyang.com/tags/leetcode/"/>
-    
-      <category term="算法" scheme="https://godweiyang.com/tags/%E7%AE%97%E6%B3%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【每日算法Day 102】美团 AI 平台算法工程师面试编程题</title>
-    <link href="https://godweiyang.com/2020/04/16/meituan-interview-1/"/>
-    <id>https://godweiyang.com/2020/04/16/meituan-interview-1/</id>
-    <published>2020-04-16T09:51:30.000Z</published>
-    <updated>2020-10-22T06:34:30.858Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;blockquote&gt;
-&lt;p&gt;今天去尝试了一下美团 AI
         
       
     

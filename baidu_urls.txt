@@ -1,3 +1,4 @@
+https://godweiyang.com/2020/12/18/automl-survey/
 https://godweiyang.com/2020/12/13/2020-conclusion/
 https://godweiyang.com/2020/12/09/travel-to-beijing/
 https://godweiyang.com/2020/12/05/school-conclusion/
@@ -97,4 +98,3 @@ https://godweiyang.com/2020/02/03/encoder-syntactic/
 https://godweiyang.com/2020/02/03/leetcode-233/
 https://godweiyang.com/2020/02/02/leetcode-523/
 https://godweiyang.com/2020/02/01/leetcode-115/
-https://godweiyang.com/2020/01/31/leetcode-239/
