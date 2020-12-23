@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>神经架构搜索在Transformer模型上的若干实践</title>
+      <link href="/2020/12/24/nas-transformer/"/>
+      <url>/2020/12/24/nas-transformer/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>关注公众号【算法码上来】，每日算法干货马上就来！</p></blockquote><p><img src="/medias/contact.jpg" alt></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 深度学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AutoML </tag>
+            
+            <tag> NAS </tag>
+            
+            <tag> 神经架构搜索 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>一文看懂AutoML</title>
       <link href="/2020/12/18/automl-survey/"/>
       <url>/2020/12/18/automl-survey/</url>

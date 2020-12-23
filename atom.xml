@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://godweiyang.com/"/>
-  <updated>2020-12-18T11:29:49.893Z</updated>
+  <updated>2020-12-23T16:27:15.941Z</updated>
   <id>https://godweiyang.com/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>神经架构搜索在Transformer模型上的若干实践</title>
+    <link href="https://godweiyang.com/2020/12/24/nas-transformer/"/>
+    <id>https://godweiyang.com/2020/12/24/nas-transformer/</id>
+    <published>2020-12-23T16:26:01.000Z</published>
+    <updated>2020-12-23T16:27:15.941Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;关注公众号【算法码上来】，每日算法干货马上就来！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/medias/contact.jpg&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="深度学习" scheme="https://godweiyang.com/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="AutoML" scheme="https://godweiyang.com/tags/AutoML/"/>
+    
+      <category term="NAS" scheme="https://godweiyang.com/tags/NAS/"/>
+    
+      <category term="神经架构搜索" scheme="https://godweiyang.com/tags/%E7%A5%9E%E7%BB%8F%E6%9E%B6%E6%9E%84%E6%90%9C%E7%B4%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>一文看懂AutoML</title>
@@ -571,37 +604,6 @@
         
           &lt;blockquote&gt;
 &lt;p&gt;偷电瓶的周某今天（2020.04.18）出来啦，打工是不可能打工的，这辈子都不可能打工的，大家可要小心咯。&lt;br&gt;今天开始讲解 LeetCode
-        
-      
-    
-    </summary>
-    
-      <category term="编程算法" scheme="https://godweiyang.com/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
-    
-    
-      <category term="leetcode" scheme="https://godweiyang.com/tags/leetcode/"/>
-    
-      <category term="算法" scheme="https://godweiyang.com/tags/%E7%AE%97%E6%B3%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【每日算法Day 103】老题新做，几乎不会有人想到的解法，它来了</title>
-    <link href="https://godweiyang.com/2020/04/17/leetcode-846-v2/"/>
-    <id>https://godweiyang.com/2020/04/17/leetcode-846-v2/</id>
-    <published>2020-04-17T03:30:53.000Z</published>
-    <updated>2020-10-22T06:34:30.838Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;blockquote&gt;
-&lt;p&gt;前两天 Day 99 的时候，做过一道顺子的题目，当时有一个网友的妙解有点没看懂，今天我来给大家详细讲解一下。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;题目链接&quot;&gt;&lt;a href=&quot;#题目链接&quot; class=&quot;headerlink&quot;
         
       
     
