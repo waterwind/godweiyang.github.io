@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://godweiyang.com/"/>
-  <updated>2020-12-24T10:38:36.767Z</updated>
+  <updated>2020-12-24T10:46:18.276Z</updated>
   <id>https://godweiyang.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>速览几篇神经架构搜索应用在NLP和移动端上的论文</title>
+    <title>如何自动搜出更好、更小、更快的NLP模型？</title>
     <link href="https://godweiyang.com/2020/12/24/nas-transformer/"/>
     <id>https://godweiyang.com/2020/12/24/nas-transformer/</id>
     <published>2020-12-23T16:26:01.000Z</published>
-    <updated>2020-12-24T10:38:36.767Z</updated>
+    <updated>2020-12-24T10:46:18.276Z</updated>
     
     <summary type="html">
     
