@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://godweiyang.com/"/>
-  <updated>2020-12-23T16:27:15.941Z</updated>
+  <updated>2020-12-24T10:22:00.056Z</updated>
   <id>https://godweiyang.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>神经架构搜索在Transformer模型上的若干实践</title>
+    <title>速览几篇神经架构搜索应用在NLP和移动端上的论文</title>
     <link href="https://godweiyang.com/2020/12/24/nas-transformer/"/>
     <id>https://godweiyang.com/2020/12/24/nas-transformer/</id>
     <published>2020-12-23T16:26:01.000Z</published>
-    <updated>2020-12-23T16:27:15.941Z</updated>
+    <updated>2020-12-24T10:22:00.056Z</updated>
     
     <summary type="html">
     
@@ -32,7 +32,8 @@
           &lt;blockquote&gt;
 &lt;p&gt;关注公众号【算法码上来】，每日算法干货马上就来！&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/medias/contact.jpg&quot;
+&lt;p&gt;&lt;img src=&quot;/medias/contact.jpg&quot; alt&gt;&lt;/p&gt;
+&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot;
         
       
     
