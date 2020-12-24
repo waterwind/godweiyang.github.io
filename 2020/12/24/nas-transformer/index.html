@@ -547,19 +547,20 @@
 <h2 id="OFA"><a href="#OFA" class="headerlink" title="OFA"></a>OFA</h2><p><strong>[ICLR 20] Once for All: Train One Network and Specialize it for Efficient Deployment</strong></p>
 <h3 id="动机-3"><a href="#动机-3" class="headerlink" title="动机"></a>动机</h3><p>NAS能减小目标设备上的延时，但是对于每个设备都得retrain，甚至得重新搜索结构。所以本文只需要训练一次，对于每个设备只需要几分钟就能搜出最优结构，并且不需要retrain。</p>
 <h3 id="方法-3"><a href="#方法-3" class="headerlink" title="方法"></a>方法</h3><p>首先train一个超网络，然后采用progressive shrinking进行子网络的采样和finetune，progressive shrinking会同时训练各个大小的网络，这样不同子网络之间性能都能达到比较好。</p>
-<p>最后训练一个（模型结构，准确率）的预测器，再维护一个（模型结构，目标设备，延时/FLOPs）的loopup table，用演化算法直接搜一个目标设备上最优的模型。因为是帕累托最优，所以寻找的是小于限定延时/FLOPs情况下最佳效果的模型。<br><img src="1.png" alt></p>
-<h3 id="实验-3"><a href="#实验-3" class="headerlink" title="实验"></a>实验</h3><p><img src="1.png" alt><br><img src="1.png" alt><br><img src="1.png" alt><br>相同延时的情况下效果会好很多。搜出结构之后再finetune会更好。搜出结构后从头train效果很差，说明pretrain的weight是有用的。</p>
+<p>最后训练一个（模型结构，准确率）的预测器，再维护一个（模型结构，目标设备，延时/FLOPs）的loopup table，用演化算法直接搜一个目标设备上最优的模型。因为是帕累托最优，所以寻找的是小于限定延时/FLOPs情况下最佳效果的模型。<br><img src="7.png" alt></p>
+<h3 id="实验-3"><a href="#实验-3" class="headerlink" title="实验"></a>实验</h3><p><img src="8.png" alt><br><img src="9.png" alt><br><img src="10.png" alt><br>相同延时的情况下效果会好很多。搜出结构之后再finetune会更好。搜出结构后从头train效果很差，说明pretrain的weight是有用的。</p>
 <h3 id="评价-3"><a href="#评价-3" class="headerlink" title="评价"></a>评价</h3><p>移动端部署很好用，只需要train一次，速度非常快，progressive shrinking解决了多个子网络互相影响的问题。</p>
 <h2 id="HAT"><a href="#HAT" class="headerlink" title="HAT"></a>HAT</h2><p><strong>[ACL 20] HAT: Hardware Aware Transformers for Efficient Natural Language Processing</strong></p>
 <h3 id="动机-4"><a href="#动机-4" class="headerlink" title="动机"></a>动机</h3><p>Transfomer部署到不同终端，NAS费时费钱。</p>
 <h3 id="方法-4"><a href="#方法-4" class="headerlink" title="方法"></a>方法</h3><p>其实就是把OFA照搬到Transformer上，这里连progressive shrinking都没用，直接uniform采样，貌似也没有用不同size的模型联合训练。</p>
-<h3 id="实验-4"><a href="#实验-4" class="headerlink" title="实验"></a>实验</h3><p><img src="1.png" alt></p>
+<h3 id="实验-4"><a href="#实验-4" class="headerlink" title="实验"></a>实验</h3><p><img src="11.png" alt></p>
 <h3 id="评价-4"><a href="#评价-4" class="headerlink" title="评价"></a>评价</h3><p>我感觉相比于OFA创新很小，就是设计了一下Transformer的搜索空间，其他基本差不多。</p>
 <h2 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h2><p>目前看来，AMC、OFA和HAT是之后可以尝试的工作。</p>
 <p>如果想不改变结构，单纯通过剪枝压缩的话，可以尝试用AMC在相同压缩率或延时的情况下达到更好的效果。</p>
 <p>而如果想要更深一步优化延时和压缩率，可以尝试OFA的方法，这种方法只需要train一次超网络，训练过程中采用技巧防止子网络性能互相影响即可。最后针对不同设备直接搜出最优结构就行了，不需要在评估过程中重新训练。因此速度非常快，也很方便。</p>
 <p>OFA和HAT的代码也都开源了，可以按照教程试一试，我试了在ImageNet上搜出一个比较好的模型还是非常快的。不考虑pretrain的时间，对于每个设备只需要几十秒就搜出来了。</p>
-<p>OFA：<a href="https://github.com/mit-han-lab/once-for-all" target="_blank" rel="noopener">https://github.com/mit-han-lab/once-for-all</a><br>HAT：<a href="https://github.com/mit-han-lab/hardware-aware-transformers" target="_blank" rel="noopener">https://github.com/mit-han-lab/hardware-aware-transformers</a></p>
+<p><strong>OFA：</strong><br><a href="https://github.com/mit-han-lab/once-for-all" target="_blank" rel="noopener">https://github.com/mit-han-lab/once-for-all</a></p>
+<p><strong>HAT：</strong><br><a href="https://github.com/mit-han-lab/hardware-aware-transformers" target="_blank" rel="noopener">https://github.com/mit-han-lab/hardware-aware-transformers</a></p>
 
             </div>
             <hr />
