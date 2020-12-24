@@ -540,12 +540,14 @@
 <h3 id="评价-1"><a href="#评价-1" class="headerlink" title="评价"></a>评价</h3><p>感觉上和ENAS差别不是很大，就是搜索空间针对NLP任务做了一些扩展。此外搜索目标只是效果，并没有考虑到延时等条件。</p>
 <h2 id="ET"><a href="#ET" class="headerlink" title="ET"></a>ET</h2><p><strong>[ICML 19] The Evolved Transformer</strong></p>
 <h3 id="动机-2"><a href="#动机-2" class="headerlink" title="动机"></a>动机</h3><p>这篇是想搜出一个效果更好的Transformer结构。</p>
-<h3 id="方法-2"><a href="#方法-2" class="headerlink" title="方法"></a>方法</h3><p><img src="5.png" alt><br>搜索空间也是cell堆叠，每个cell里面encoder有6个block，decoder有8个，这样是为了初始化的时候能重现Transformer结构。<br>演化算法初始个体就用的是Transformer结构，这样收敛的更快一点。为了加快搜索速度，采用了Progressive Dynamic Hurdles的方法，过程是这样的：初始种群全部训练到一定步数后early stop，算出平均适应度。接下来后代训练到相同步数后，适应度高于平均值的继续训练一定步数后early stop，其余的直接early stop。然后更新这个early stop的步数和对应的适应度平均值，继续演化出后代。</p>
+<h3 id="方法-2"><a href="#方法-2" class="headerlink" title="方法"></a>方法</h3><p><img src="5.png" alt><br>搜索空间也是cell堆叠，每个cell里面encoder有6个block，decoder有8个，这样是为了初始化的时候能重现Transformer结构。</p>
+<p>演化算法初始个体就用的是Transformer结构，这样收敛的更快一点。为了加快搜索速度，采用了Progressive Dynamic Hurdles的方法，过程是这样的：初始种群全部训练到一定步数后early stop，算出平均适应度。接下来后代训练到相同步数后，适应度高于平均值的继续训练一定步数后early stop，其余的直接early stop。然后更新这个early stop的步数和对应的适应度平均值，继续演化出后代。</p>
 <h3 id="实验-2"><a href="#实验-2" class="headerlink" title="实验"></a>实验</h3><p><img src="6.png" alt><br>可以看出，在多个不同模型大小设置下，ET效果都要高于Transformer，而且越小效果越好。</p>
 <h3 id="评价-2"><a href="#评价-2" class="headerlink" title="评价"></a>评价</h3><p>大力出奇迹，效果也不错，但是缺点就是搜索时间太长了。</p>
 <h2 id="OFA"><a href="#OFA" class="headerlink" title="OFA"></a>OFA</h2><p><strong>[ICLR 20] Once for All: Train One Network and Specialize it for Efficient Deployment</strong></p>
 <h3 id="动机-3"><a href="#动机-3" class="headerlink" title="动机"></a>动机</h3><p>NAS能减小目标设备上的延时，但是对于每个设备都得retrain，甚至得重新搜索结构。所以本文只需要训练一次，对于每个设备只需要几分钟就能搜出最优结构，并且不需要retrain。</p>
-<h3 id="方法-3"><a href="#方法-3" class="headerlink" title="方法"></a>方法</h3><p>首先train一个超网络，然后采用progressive shrinking进行子网络的采样和finetune，progressive shrinking会同时训练各个大小的网络，这样不同子网络之间性能都能达到比较好。<br>最后训练一个（模型结构，准确率）的预测器，再维护一个（模型结构，目标设备，延时/FLOPs）的loopup table，用演化算法直接搜一个目标设备上最优的模型。因为是帕累托最优，所以寻找的是小于限定延时/FLOPs情况下最佳效果的模型。<br><img src="1.png" alt></p>
+<h3 id="方法-3"><a href="#方法-3" class="headerlink" title="方法"></a>方法</h3><p>首先train一个超网络，然后采用progressive shrinking进行子网络的采样和finetune，progressive shrinking会同时训练各个大小的网络，这样不同子网络之间性能都能达到比较好。</p>
+<p>最后训练一个（模型结构，准确率）的预测器，再维护一个（模型结构，目标设备，延时/FLOPs）的loopup table，用演化算法直接搜一个目标设备上最优的模型。因为是帕累托最优，所以寻找的是小于限定延时/FLOPs情况下最佳效果的模型。<br><img src="1.png" alt></p>
 <h3 id="实验-3"><a href="#实验-3" class="headerlink" title="实验"></a>实验</h3><p><img src="1.png" alt><br><img src="1.png" alt><br><img src="1.png" alt><br>相同延时的情况下效果会好很多。搜出结构之后再finetune会更好。搜出结构后从头train效果很差，说明pretrain的weight是有用的。</p>
 <h3 id="评价-3"><a href="#评价-3" class="headerlink" title="评价"></a>评价</h3><p>移动端部署很好用，只需要train一次，速度非常快，progressive shrinking解决了多个子网络互相影响的问题。</p>
 <h2 id="HAT"><a href="#HAT" class="headerlink" title="HAT"></a>HAT</h2><p><strong>[ACL 20] HAT: Hardware Aware Transformers for Efficient Natural Language Processing</strong></p>
