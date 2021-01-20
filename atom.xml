@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://godweiyang.com/"/>
-  <updated>2020-12-24T10:46:18.276Z</updated>
+  <updated>2021-01-20T16:36:55.205Z</updated>
   <id>https://godweiyang.com/</id>
   
   <author>
@@ -17,11 +17,42 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Python常用画图代码（折线图、柱状图、饼图）</title>
+    <link href="https://godweiyang.com/2021/01/20/python-figure/"/>
+    <id>https://godweiyang.com/2021/01/20/python-figure/</id>
+    <published>2021-01-20T15:33:51.000Z</published>
+    <updated>2021-01-20T16:36:55.205Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;简单记录一下常用的三种论文插图的python画图代码，以作备忘。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;折线图&quot;&gt;&lt;a href=&quot;#折线图&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="编程算法" scheme="https://godweiyang.com/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="python" scheme="https://godweiyang.com/tags/python/"/>
+    
+      <category term="画图" scheme="https://godweiyang.com/tags/%E7%94%BB%E5%9B%BE/"/>
+    
+  </entry>
+  
+  <entry>
     <title>如何自动搜出更好、更小、更快的NLP模型？</title>
     <link href="https://godweiyang.com/2020/12/24/nas-transformer/"/>
     <id>https://godweiyang.com/2020/12/24/nas-transformer/</id>
     <published>2020-12-23T16:26:01.000Z</published>
-    <updated>2020-12-24T10:46:18.276Z</updated>
+    <updated>2020-12-27T09:04:54.586Z</updated>
     
     <summary type="html">
     
@@ -576,35 +607,6 @@
         
         
           &lt;h2 id=&quot;题目链接&quot;&gt;&lt;a href=&quot;#题目链接&quot; class=&quot;headerlink&quot; title=&quot;题目链接&quot;&gt;&lt;/a&gt;题目链接&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://leetcode-cn.com/problems/house-robber-ii/&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="编程算法" scheme="https://godweiyang.com/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
-    
-    
-      <category term="leetcode" scheme="https://godweiyang.com/tags/leetcode/"/>
-    
-      <category term="算法" scheme="https://godweiyang.com/tags/%E7%AE%97%E6%B3%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【每日算法Day 104】偷电瓶的周某今天放出来了，还不赶紧做这道题防范一下！</title>
-    <link href="https://godweiyang.com/2020/04/18/leetcode-198/"/>
-    <id>https://godweiyang.com/2020/04/18/leetcode-198/</id>
-    <published>2020-04-18T05:18:51.000Z</published>
-    <updated>2020-10-22T06:34:30.817Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;blockquote&gt;
-&lt;p&gt;偷电瓶的周某今天（2020.04.18）出来啦，打工是不可能打工的，这辈子都不可能打工的，大家可要小心咯。&lt;br&gt;今天开始讲解 LeetCode
         
       
     
