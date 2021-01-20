@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://godweiyang.com/"/>
-  <updated>2021-01-20T16:36:55.205Z</updated>
+  <updated>2021-01-20T16:42:37.219Z</updated>
   <id>https://godweiyang.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://godweiyang.com/2021/01/20/python-figure/"/>
     <id>https://godweiyang.com/2021/01/20/python-figure/</id>
     <published>2021-01-20T15:33:51.000Z</published>
-    <updated>2021-01-20T16:36:55.205Z</updated>
+    <updated>2021-01-20T16:42:37.219Z</updated>
     
     <summary type="html">
     
@@ -30,9 +30,11 @@
         
         
           &lt;blockquote&gt;
-&lt;p&gt;简单记录一下常用的三种论文插图的python画图代码，以作备忘。&lt;/p&gt;
+&lt;p&gt;简单记录一下最简单常用的三种论文插图的python画图代码，以作备忘。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h2 id=&quot;折线图&quot;&gt;&lt;a href=&quot;#折线图&quot; class=&quot;headerlink&quot;
+&lt;p&gt;有很多很牛b的作图教程，我也学不来，就扔给大家自己学吧：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
         
       
     
