@@ -494,14 +494,14 @@ import ti">
                 
                 <div class="info-break-policy">
                     <i class="fa fa-file-word-o fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    704
+                    749
                 </div>
                 
 
                 
                 <div class="info-break-policy">
                     <i class="fa fa-clock-o fa-fw"></i>阅读时长:&nbsp;&nbsp;
-                    2 分
+                    3 分
                 </div>
                 
                 
@@ -518,7 +518,7 @@ import ti">
         <div class="card-content article-card-content">
             <div id="articleContent">
                 <blockquote>
-<p>最近碰到个脑子可能不大正常的人，整天给一堆人群发乱七八糟的邮件，各种喷人、编造谣言和绯闻，看的很是心烦。<br><img src="1.png" alt><br><img src="2.png" alt></p>
+<p>最近碰到个脑子可能不大正常的人，整天给一堆人群发乱七八糟的邮件，各种喷人、编造谣言和绯闻，看的很是心烦。<br><img src="1.png" alt="一个上午就发了这么多"><br><img src="2.png" alt="都是编造的我老家各种老师、官员的绯闻"></p>
 </blockquote>
 <p>于是乎我找了段python代码，给她自动发邮件轰炸一下。</p>
 <p>代码很简单，如下所示：</p>
@@ -584,6 +584,7 @@ error <span class="token operator">=</span> <span class="token number">0</span>
 <li><code>text</code>是邮件正文，这里我省略了图片、附件等发送方法，可以参考文末链接。</li>
 <li><code>total</code>是我设置的邮件轰炸次数，这里发送1000次，如果你是正常群发目的，设置成1次就行了。</li>
 <li><code>error</code>是允许报错次数，如果连续超过10次依然发送失败，那么就停止发送了。</li>
+<li>注意我这里设置了<code>time.sleep(60)</code>，也就是60秒发送一次。这个时间不能太短，不然发送过于频繁，会被判断成垃圾邮件！</li>
 </ul>
 <p>如果运行提示缺少库，那就用<code>pip install xxx</code>安装一下就行了。</p>
 <p>像大家平时如果有群发邮件的正当需求，都可以用这个代码试试。不建议用它来轰炸其他人哦，这是不好的行为。</p>
