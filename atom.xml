@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://godweiyang.com/"/>
-  <updated>2021-01-25T10:07:37.235Z</updated>
+  <updated>2021-01-26T06:00:09.335Z</updated>
   <id>https://godweiyang.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>教你如何用代码自动群发邮件（邮件轰炸机）</title>
+    <link href="https://godweiyang.com/2021/01/26/python-mail/"/>
+    <id>https://godweiyang.com/2021/01/26/python-mail/</id>
+    <published>2021-01-26T05:15:12.000Z</published>
+    <updated>2021-01-26T06:00:09.335Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;最近碰到个脑子可能不大正常的人，整天给一堆人群发乱七八糟的邮件，各种喷人、编造谣言和绯闻，看的很是心烦。&lt;br&gt;&lt;img src=&quot;1.png&quot; alt&gt;&lt;br&gt;&lt;img src=&quot;2.png&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="编程算法" scheme="https://godweiyang.com/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="python" scheme="https://godweiyang.com/tags/python/"/>
+    
+      <category term="发邮件" scheme="https://godweiyang.com/tags/%E5%8F%91%E9%82%AE%E4%BB%B6/"/>
+    
+  </entry>
   
   <entry>
     <title>极简个人博客搭建教程（Hexo+Github）</title>
@@ -576,35 +605,6 @@
         
         
           &lt;h2 id=&quot;题目链接&quot;&gt;&lt;a href=&quot;#题目链接&quot; class=&quot;headerlink&quot; title=&quot;题目链接&quot;&gt;&lt;/a&gt;题目链接&lt;/h2&gt;&lt;p&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-      <category term="编程算法" scheme="https://godweiyang.com/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
-    
-    
-      <category term="leetcode" scheme="https://godweiyang.com/tags/leetcode/"/>
-    
-      <category term="算法" scheme="https://godweiyang.com/tags/%E7%AE%97%E6%B3%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【每日算法Day 107】面试必考：良心推荐，一题三解，不看后悔一辈子</title>
-    <link href="https://godweiyang.com/2020/04/21/leetcode-1248/"/>
-    <id>https://godweiyang.com/2020/04/21/leetcode-1248/</id>
-    <published>2020-04-21T03:14:02.000Z</published>
-    <updated>2020-10-22T06:34:30.809Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;blockquote&gt;
-&lt;p&gt;可能有些同学只会写 &lt;code&gt;python&lt;/code&gt; ，看不懂 &lt;code&gt;c++&lt;/code&gt;。但是一个是因为我懒，多解时不想再写一遍 &lt;code&gt;python&lt;/code&gt;
         
       
     
