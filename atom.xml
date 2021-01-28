@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://godweiyang.com/"/>
-  <updated>2021-01-26T14:04:58.497Z</updated>
+  <updated>2021-01-28T12:37:43.295Z</updated>
   <id>https://godweiyang.com/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>想来字节跳动和我做同事吗？抓紧这次机会吧~</title>
+    <link href="https://godweiyang.com/2021/01/28/bytedance-offer/"/>
+    <id>https://godweiyang.com/2021/01/28/bytedance-offer/</id>
+    <published>2021-01-28T12:32:34.000Z</published>
+    <updated>2021-01-28T12:37:43.295Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;想来字节吗？&quot;&gt;&lt;a href=&quot;#想来字节吗？&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://godweiyang.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="字节跳动" scheme="https://godweiyang.com/tags/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8/"/>
+    
+      <category term="实习" scheme="https://godweiyang.com/tags/%E5%AE%9E%E4%B9%A0/"/>
+    
+      <category term="面试" scheme="https://godweiyang.com/tags/%E9%9D%A2%E8%AF%95/"/>
+    
+  </entry>
   
   <entry>
     <title>教你如何用代码自动群发邮件（邮件轰炸机）</title>
@@ -253,11 +283,11 @@
       <category term="随笔" scheme="https://godweiyang.com/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
+      <category term="字节跳动" scheme="https://godweiyang.com/tags/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8/"/>
+    
       <category term="学术" scheme="https://godweiyang.com/tags/%E5%AD%A6%E6%9C%AF/"/>
     
       <category term="科研" scheme="https://godweiyang.com/tags/%E7%A7%91%E7%A0%94/"/>
-    
-      <category term="字节跳动" scheme="https://godweiyang.com/tags/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8/"/>
     
   </entry>
   
@@ -585,35 +615,6 @@
         
         
           &lt;h2 id=&quot;题目链接&quot;&gt;&lt;a href=&quot;#题目链接&quot; class=&quot;headerlink&quot; title=&quot;题目链接&quot;&gt;&lt;/a&gt;题目链接&lt;/h2&gt;&lt;p&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-      <category term="编程算法" scheme="https://godweiyang.com/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
-    
-    
-      <category term="leetcode" scheme="https://godweiyang.com/tags/leetcode/"/>
-    
-      <category term="算法" scheme="https://godweiyang.com/tags/%E7%AE%97%E6%B3%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【每日算法Day 107】面试必考：良心推荐，一题三解，不看后悔一辈子</title>
-    <link href="https://godweiyang.com/2020/04/21/leetcode-1248/"/>
-    <id>https://godweiyang.com/2020/04/21/leetcode-1248/</id>
-    <published>2020-04-21T03:14:02.000Z</published>
-    <updated>2020-10-22T06:34:30.809Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;blockquote&gt;
-&lt;p&gt;可能有些同学只会写 &lt;code&gt;python&lt;/code&gt; ，看不懂 &lt;code&gt;c++&lt;/code&gt;。但是一个是因为我懒，多解时不想再写一遍 &lt;code&gt;python&lt;/code&gt;
         
       
     
