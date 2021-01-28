@@ -31,35 +31,6 @@
     
     
     <entry>
-      <title>极简个人博客搭建教程（Hexo+Github）</title>
-      <link href="/2021/01/25/fast-blog/"/>
-      <url>/2021/01/25/fast-blog/</url>
-      
-        <content type="html"><![CDATA[<blockquote><p>关注公众号【算法码上来】，每日算法干货马上就来！</p></blockquote><p><img src="/medias/contact.jpg" alt></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 计算机知识 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 博客 </tag>
-            
-            <tag> hexo </tag>
-            
-            <tag> github </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>推荐几个不错的CUDA入门教程（非广告）</title>
       <link href="/2021/01/25/cuda-reading/"/>
       <url>/2021/01/25/cuda-reading/</url>
@@ -4952,9 +4923,9 @@
             
             <tag> 博客 </tag>
             
-            <tag> hexo </tag>
-            
             <tag> github </tag>
+            
+            <tag> hexo </tag>
             
         </tags>
       

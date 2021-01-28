@@ -48,39 +48,6 @@
   </entry>
   
   <entry>
-    <title>极简个人博客搭建教程（Hexo+Github）</title>
-    <link href="https://godweiyang.com/2021/01/25/fast-blog/"/>
-    <id>https://godweiyang.com/2021/01/25/fast-blog/</id>
-    <published>2021-01-25T10:05:40.000Z</published>
-    <updated>2021-01-26T14:22:24.876Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;blockquote&gt;
-&lt;p&gt;关注公众号【算法码上来】，每日算法干货马上就来！&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/medias/contact.jpg&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="计算机知识" scheme="https://godweiyang.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9F%A5%E8%AF%86/"/>
-    
-    
-      <category term="博客" scheme="https://godweiyang.com/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
-      <category term="hexo" scheme="https://godweiyang.com/tags/hexo/"/>
-    
-      <category term="github" scheme="https://godweiyang.com/tags/github/"/>
-    
-  </entry>
-  
-  <entry>
     <title>推荐几个不错的CUDA入门教程（非广告）</title>
     <link href="https://godweiyang.com/2021/01/25/cuda-reading/"/>
     <id>https://godweiyang.com/2021/01/25/cuda-reading/</id>
@@ -618,6 +585,35 @@
         
         
           &lt;h2 id=&quot;题目链接&quot;&gt;&lt;a href=&quot;#题目链接&quot; class=&quot;headerlink&quot; title=&quot;题目链接&quot;&gt;&lt;/a&gt;题目链接&lt;/h2&gt;&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="编程算法" scheme="https://godweiyang.com/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="leetcode" scheme="https://godweiyang.com/tags/leetcode/"/>
+    
+      <category term="算法" scheme="https://godweiyang.com/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【每日算法Day 107】面试必考：良心推荐，一题三解，不看后悔一辈子</title>
+    <link href="https://godweiyang.com/2020/04/21/leetcode-1248/"/>
+    <id>https://godweiyang.com/2020/04/21/leetcode-1248/</id>
+    <published>2020-04-21T03:14:02.000Z</published>
+    <updated>2020-10-22T06:34:30.809Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;可能有些同学只会写 &lt;code&gt;python&lt;/code&gt; ，看不懂 &lt;code&gt;c++&lt;/code&gt;。但是一个是因为我懒，多解时不想再写一遍 &lt;code&gt;python&lt;/code&gt;
         
       
     
